@@ -1,0 +1,26 @@
+Feature description
+
+age	
+
+sex	
+
+cp
+
+trestbps   =     resting blood pressure (on admission to the hospital)
+
+chol	=	serum cholestoral
+
+fbs	= 	fasting blood sugar > 120 mg/dl
+
+restecg
+
+
+thalach			maximum heart rate achieved		
+exang			exercise induced angina		
+oldpeak		ST depression induced by exercise relative to rest
+
+slope
+
+ca		number of major vessels (0-3) colored by flourosopy	
+thal					
+num			diagnosis of heart disease
